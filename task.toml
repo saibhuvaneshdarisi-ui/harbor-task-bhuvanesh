@@ -1,0 +1,34 @@
+schema_version = "1.4"
+
+[task]
+name = "harbor/sensor-data-aggregator"
+version = "1.0.0"
+authors = []
+keywords = []
+
+[metadata]
+author_name = "Xelron"
+author_email = "your.email@example.com"
+difficulty = "easy"
+category = "data-processing"
+tags = ["json", "aggregation", "data-transform"]
+expert_time_estimate_min = 10.0
+junior_time_estimate_min = 30.0
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 600.0
+
+[environment]
+build_timeout_sec = 300.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+gpus = 0
+mcp_servers = []
+
+[verifier.env]
+
+[solution.env]

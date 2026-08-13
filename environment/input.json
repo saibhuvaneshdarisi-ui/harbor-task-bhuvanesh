@@ -1,0 +1,12 @@
+[
+  {"sensor_id": "s1", "value": 10.0},
+  {"sensor_id": "s1", "value": 20.0},
+  {"sensor_id": "s1", "value": 15.0},
+  {"sensor_id": "s2", "value": 5.5},
+  {"sensor_id": "s2", "value": 7.25},
+  {"sensor_id": "s3", "value": 100.0},
+  {"sensor_id": "s3", "value": 50.0},
+  {"sensor_id": "s3", "value": 75.0},
+  {"sensor_id": "s3", "value": 25.0},
+  {"sensor_id": "s4", "value": -3.2}
+]
